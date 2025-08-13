@@ -1,0 +1,14 @@
+name: voice-deepfake-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - librosa
+  - matplotlib
+  - seaborn
+  - ipython
+  - ipykernel
